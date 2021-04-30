@@ -180,7 +180,7 @@ PyTweening==1.0.3
 pytz==2020.1
 pyzmq==19.0.2
 requests==2.23.0
-rsa==4.6
+rsa==4.7
 rubicon-objc==0.3.1
 schema==0.7.2
 six==1.12.0
